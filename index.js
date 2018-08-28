@@ -40,4 +40,6 @@ var kittens2 = [name, ...kittens]
 appendKitten('Broom')
 
 
-function removeLastKitten(name
+function removeLastKitten(name) {
+  var kittens2 = 
+}
